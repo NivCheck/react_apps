@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+}
+
+.App {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+} 
+
+.container span {
+  font-size: 50px;
+}
+
+.star-filled {
+  color: yellow;
+}
